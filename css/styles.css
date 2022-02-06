@@ -130,3 +130,9 @@ background-color: #ff7f4c;
     transform: translateY(-200px);
   
 }
+#footer{
+    padding:40px;
+    font-size: larger;
+    font-weight: 800;
+    color:rgb(97, 91, 91)
+}
